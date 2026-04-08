@@ -1,0 +1,13 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="APITestSuite">
+
+    <test name="MultipleTestCases">
+
+        <classes>
+            <class name="com.SekharSVB.ex_02_RestAssured_Basic.APITesting_Lab05_Multiple_TestCase"/>
+        </classes>
+
+    </test>
+
+</suite>
